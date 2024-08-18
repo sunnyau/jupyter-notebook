@@ -15,12 +15,6 @@ This project uses miniconda, a virtualenv and python package tool, to setup
 
 Example
 
-(base) sunny@TDesktop:~/workspace/python-jupyter-notebook$ conda activate jupyter38
-(jupyter38) sunny@TDesktop:~/workspace/python-jupyter-notebook$ conda deactivate
-(base) sunny@TDesktop:~/workspace/python-jupyter-notebook$
-
-
-
-
+![Screenshot 2024-08-18 105801](https://github.com/user-attachments/assets/854a2ab7-52e0-45fd-a00a-18ba1cee1f51)
 
 
