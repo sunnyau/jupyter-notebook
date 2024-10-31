@@ -43,6 +43,7 @@ Run `(python-jupyter-notebook) sunny@TDesktop:~/workspace/python-jupyter-noteboo
 
 Run `(python-jupyter-notebook) sunny@TDesktop:~/workspace/python-jupyter-notebook$ conda install jupyter`
 
+## Result
 
 ![Screenshot (30)](https://github.com/user-attachments/assets/72da392b-b52d-49f3-9827-63a4c1320660)
 
