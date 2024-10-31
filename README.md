@@ -24,14 +24,14 @@ https://www.youtube.com/watch?v=suAkMeWJ1yE
 
 # useful conda commands
 
+```
 conda info --envs
 conda remove -n my-env --all
 conda env create -f environment.yaml -n my-env
 conda env update -f environment.yaml
 conda create --name python-jupyter-notebook
-
 conda env export > environment.yaml
-
+```
 
 # Problem solving
 
@@ -42,5 +42,8 @@ Run `(python-jupyter-notebook) sunny@TDesktop:~/workspace/python-jupyter-noteboo
 ## The kernel failed to start as the Python Environment 'Python' is no longer available. Consider selecting another kernel or refreshing the list of Python Environments.
 
 Run `(python-jupyter-notebook) sunny@TDesktop:~/workspace/python-jupyter-notebook$ conda install jupyter`
+
+
+![Screenshot (30)](https://github.com/user-attachments/assets/72da392b-b52d-49f3-9827-63a4c1320660)
 
 
